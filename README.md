@@ -1,11 +1,13 @@
 # Muzammil-MD
-✧〖Best Whatsapp Bot 𝕍5 𝔸𝕟𝕥𝕚𝕓𝕒𝕟 Heroku &amp; WhatsApp Account 2025 𝐍𝐄𝐖 𝕎𝕙𝕒𝕥𝕤𝔸𝕡𝕡 𝔹𝕠𝕥〗✧
 <p align="center">
-  <img src="https://files.catbox.moe/80ntso.jpg" alt="Muzammil-MD Logo" width="300" style="border-radius:50%;" />
+  <img src="https://files.catbox.moe/80ntso.jpg" alt="Muzammil-MD Logo" width="250" style="border-radius:50%;" />
 </p>
 
-<h1 align="center">⚡ MUZAMMIL-MD ⚡</h1>
-<h3 align="center">Your Personal WhatsApp AI Bot 🤖 | By: Muzammil | Owner: 923142854207</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=9D00FF&center=true&vCenter=true&width=600&lines=⚡+MUZAMMIL-MD+⚡;Your+Personal+WhatsApp+AI+Bot+🤖;By+Muzammil+|+Owner:+923142854207" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%"/>
