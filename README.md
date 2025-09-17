@@ -1,87 +1,77 @@
 # Muzammil-MD
-🤖 MUZAMMIL-MD - Advanced WhatsApp Bot
+<p align="center">
+  <img src="https://files.catbox.moe/80ntso.jpg" alt="Muzammil-MD Logo" width="300" style="border-radius:50%;" />
+</p>
 
-⚔️ Developed by MUZAMMIL-MD | 100+ Features | Super Aggressive Bot
+<h1 align="center">⚡ MUZAMMIL-MD ⚡</h1>
+<h3 align="center">Your Personal WhatsApp AI Bot 🤖 | By: Muzammil | Owner: 923142854207</h3>
 
-<div align="center">
-
-https://img.shields.io/github/forks/hissari-786/Muzammil-MD?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks https://img.shields.io/github/followers/hissari-786?style=flat&color=43A047&logo=github&logoColor=white&label=Followers https://img.shields.io/github/last-commit/hissari-786/Muzammil-MD?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit https://img.shields.io/github/repo-size/hissari-786/Muzammil-MD?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size https://img.shields.io/badge/Version-2.0-blue?style=flat&color=F57C00&logo=npm&logoColor=white
-
-</div>
-
-🚀 Quick Start
-
-1. Fork the Repository
-
-<a href="https://github.com/hissari-786/Muzammil-MD/fork">
-  <img src="https://img.shields.io/badge/Fork%20MUZAMMIL--MD-4c1?style=for-the-badge&logo=github&logoColor=white" alt="Fork MUZAMMIL-MD" />
-</a>
-
-2. Get Your Session ID
-
-Authenticate using our pairing site:
-
-https://img.shields.io/badge/Pairing%20Code-000000?style=for-the-badge&logo=react&logoColor=red
-
-⚠️ Having connection issues? Try using a VPN.
-
-🌐 Deployment Options
-
-Platform Status Deployment Link
-Heroku ✅ Supported https://img.shields.io/badge/Deploy-7A3E9D?style=for-the-badge&logo=heroku&logoColor=white
-Koyeb ✅ Docker Supported https://img.shields.io/badge/Deploy-FF2D95?style=for-the-badge&logo=koyeb&logoColor=white
-Railway ✅ Works Smoothly https://img.shields.io/badge/Deploy-121212?style=for-the-badge&logo=railway&logoColor=white
-Render ✅ Fully Supported https://img.shields.io/badge/Deploy-00C7A9?style=for-the-badge&logo=render&logoColor=white
-
-✨ Key Features
-
-· ✅ AI Chatbots (GPT-4, Gemini, Meta, Copilot)
-· 🔊 Auto Voice Response on messages like "hi", "hello"
-· 🧠 Antidelete + Autoreact + AutoStatus View + AutoSave Media
-· 💣 AntiClone Security (protects bot originality)
-· 📥 Media Downloader (YT, TikTok, FB, Twitter, IG)
-· 🎨 Logo Maker + Fancy Tools
-· 👑 Owner Controls + Deployment Ready
-
-📞 Contact Information
-
-Owner: MUZAMMIL-MD
-WhatsApp: +92 314 2854207
-GitHub Repo: https://github.com/hissari-786/Muzammil-MD
-Channel: WhatsApp Channel
-
-⚠️ Disclaimer
-
-· ❗ MUZAMMIL-MD is not affiliated with WhatsApp Inc.
-· 🚫 Misuse can lead to bans. Use at your own risk.
-· 🛑 Cloning or modifying without proper credit is prohibited.
-
-👥 Support
-
-Developer: MUZAMMIL-MD
-Support Channels:
-
-· WhatsApp Channel
-· Direct Contact: +92 314 2854207
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%"/>
+</p>
 
 ---
 
+## 🚀 Project Status
+
 <div align="center">
-
-Made with ❤️ by MUZAMMIL-MD
-
-https://files.catbox.moe/80ntso.jpg
-
+  <img src="https://komarev.com/ghpvc/?username=hissari-786&label=Profile%20Views&color=9D00FF&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/last-commit/hissari-786/Muzammil-MD?color=9D00FF&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/repo-size/hissari-786/Muzammil-MD?color=9D00FF&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/hissari-786/Muzammil-MD?color=9D00FF&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/forks/hissari-786/Muzammil-MD?color=9D00FF&style=for-the-badge"/>
 </div>
 
 ---
 
-Note: This is the modified version with your specific details:
+## 🔑 Get Session
 
-· ✅ Owner Name: MUZAMMIL-MD
-· ✅ Bot Name: MUZAMMIL-MD
-· ✅ Owner Number: 923142854207
-· ✅ GitHub Repo: https://github.com/hissari-786/Muzammil-MD.git
-· ✅ Pairing Site: https://muzammil-md-5.onrender.com/
-· ✅ Channel Link: https://whatsapp.com/channel/0029Vb6Qyym7YSd3VRCxxQ1B
-· ✅ Banner Image: https://files.catbox.moe/80ntso.jpg
+<p align="center">
+  <a href="https://muzammil-md-5.onrender.com/">
+    <img src="https://img.shields.io/badge/Get%20Session-Muzammil%20MD-9D00FF?style=for-the-badge&logo=superuser"/>
+  </a>
+</p>
+
+---
+
+## 🍴 Fork This Repo
+
+<p align="center">
+  <a href="https://github.com/hissari-786/Muzammil-MD/fork">
+    <img src="https://img.shields.io/badge/Fork%20Repo-Muzammil%20MD-9D00FF?style=for-the-badge&logo=git"/>
+  </a>
+</p>
+
+---
+
+## 🚀 Deploy Muzammil-MD
+
+<p align="center">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/hissari-786/Muzammil-MD">
+    <img src="https://img.shields.io/badge/Deploy%20On-Heroku-6762A6?style=for-the-badge&logo=heroku"/>
+  </a>
+  <br/><br/>
+  <a href="https://render.com/deploy?repo=https://github.com/hissari-786/Muzammil-MD">
+    <img src="https://img.shields.io/badge/Deploy%20On-Render-46E3B7?style=for-the-badge&logo=render"/>
+  </a>
+</p>
+
+---
+
+## 📢 Support & Community
+
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029Vb6Qyym7YSd3VRCxxQ1B">
+    <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp"/>
+  </a>
+  <br/><br/>
+  <a href="https://api.whatsapp.com/send?phone=923142854207">
+    <img src="https://img.shields.io/badge/Contact-Owner-25D366?style=for-the-badge&logo=whatsapp"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%"/>
+</p>
